@@ -8,3 +8,5 @@ The first of these such layers is at the neuromuscular level. In an able-bodied 
 
 This time, Herr's team took such advancements a step further, combining the surgery with the second layer of the new prosthesis. A titanium rod was inserted into an amputee's residual bone-in this case, a femur bone above the knee-to allow for more comfort and better movement control compared to the traditional socket. The addition also enabled better load bearing. In the past, the prosthesis would put pressure on soft tissue instead of bone, creating discomfort for amputees. "Imagine sweating into a hard carbon fiber shell all day and the chafing as your residual limb slides up and down the socket," Shu explains. Additionally, wires were connected to electrodes implanted within muscle tissue. These wires were then routed to the external robotic controller that helps move the prosthesis. The third layer of the prosthesis is what Shu refers to as the "mechatronics layer," or the robotic limb that is then attached directly to the titanium implant.
 
+
+* This paragraph and its simplifications were generated using ChatGPT and manual verification
