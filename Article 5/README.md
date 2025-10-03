@@ -1,0 +1,17 @@
+# As Interest in Deep-Sea Mining Grows, Scientists Raise Alarms About the Possible Ecological Consequences
+
+<p>As focus in Deep-Sea Mining Grows, Experts Raise Alarms About the Possible living things results.</p>
+
+<p>Gathering ores such as nickel, cobalt, manganese and lithium from the seabed could affect everything from sponges to whales. The long-term effects of these extractions remain unclear.</p>
+
+<p>The deep sea is an extreme surrounding area featuring crushing force, near-freezing warmth levels and total darkness. It can be hard for humans to imagine anything capable of withstanding such conditions. And yet, life persists.</p>
+
+<p>In rare trips to the deep sea, experts have uncovered sea cucumbers with purple-magenta ombre coloring; yeti crabs with hairy, feather-like claws; octopuses with ears like the Disney character Dumbo; iridescent mollusks; and phantasmic jellyfish.</p>
+
+<p>This life is all but a fraction of what experts guess exists on the deep seafloor. But just as researchers are beginning to find out the large number of species that call the ocean floor home, countries around the world are already making plans to mine it. Ores on the deep seafloor were found out in most oceans in the 1870s during the Challenger expeditions. However, focus in mining these ores was not popularized until the mid-20th century, when American geologist John L. Mero, known as the “father of ocean mining,” promoted the practice in his 1965 book The Mineral Resources of the Sea.</p>
+
+<p>Global demand for critical ores found in seabed areas—like nickel, cobalt, manganese and lithium—are on the rise. Currently, these ores are most commonly mined in Indonesia, the Democratic Republic of Congo, South Africa and Australia, in that order. Many of these sites have been accused in recent years of committing a variety of human rights and labor abuses. Concerns about the longtime ability to succeed of such mines are also leading companies to look for ores elsewhere.</p>
+
+<p>These ores are used in defense science, smartphones, electric vehicles and even medical devices. The International Energy Agency predicts that by 2040, demand for these ores from clean energy sciences will at least double under one plan. So now, the prospectors are turning to the depths of the ocean. The International Seabed control, the body in charge of approving exploration and starting of deep-sea mining projects in worldwide waters, has currently issued 31 ore exploration contracts, but it has not yet approved any business mining operations, as the rules for such activities are still under check. Meanwhile, 37 countries have so far taken positions against deep-sea mining on worldwide waters, citing potential surrounding area harms.</p>
+
+<p>Last month, the Trump administration announced that the Office of Ocean Energy Management would begin to fast-track the starting of deep-sea mining projects. The move follows a leadership order President Donald Trump released in late April calling for the expedition of domestic and worldwide deep-sea mining projects as a means of making stronger our money system, securing our energy future and reducing need on foreign suppliers for critical ores. The debate about deep-sea mining represents an interesting clash, as the ores it produces help power many of the sciences that countries need to achieve long-term support goals such as reducing need on non-renewable fuels.</p>
