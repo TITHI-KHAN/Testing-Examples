@@ -6,11 +6,17 @@ Biomechanists have just created a revolutionary bionic knee that helps amputees 
 
 Traditionally, lower leg prostheses are an external device. An amputee’s stump is fixed with a socket upon which a robotic limb is attached. 
 
-But now, researchers at MIT have developed a prosthesis that is directly connected to a patient’s bone and muscle tissue, and it feels more like a part of their own body. Biomechanists have just created a revolutionary bionic knee that helps amputees with a remarkable range of movement. 
+But now, researchers at MIT have developed a prosthesis that is directly connected to a patient’s bone and muscle tissue, and it feels more like a part of their own body. 
 
-Traditionally, lower leg prostheses are an external device. An amputee’s stump is fixed with a socket upon which a robotic limb is attached. But now, researchers at MIT have developed a prosthesis that is directly connected to a patient’s bone and muscle tissue, and it feels more like a part of their own body.Since 2017, a team of scientists at MIT’s Yang Center for Bionics—co-led by biomechanist Hugh Herr—have been working to develop better, more advanced prostheses that are integrated into an amputee’s body. 
+Biomechanists have just created a revolutionary bionic knee that helps amputees with a remarkable range of movement. 
 
-In a new study published last month in Science , the researchers have brought together different technologies to create a tissue-integrated, above-the-knee prosthesis that gives people more control over their movements. We actually are pushing the definition of what a prosthesis can be, and that’s why we say it’s a tissue-integrated prosthesis, Tony Shu , lead author of the study, says. There’s a part that you will never be able to take off without another surgery. Shu likes to think of the new prosthesis as a culmination of three layers. 
+Traditionally, lower leg prostheses are an external device. An amputee’s stump is fixed with a socket upon which a robotic limb is attached. 
+
+But now, researchers at MIT have developed a prosthesis that is directly connected to a patient’s bone and muscle tissue, and it feels more like a part of their own body.
+
+Since 2017, a team of scientists at MIT’s Yang Center for Bionics—co-led by biomechanist Hugh Herr—have been working to develop better, more advanced prostheses that are integrated into an amputee’s body. 
+
+In a new study published last month in Science, the researchers have brought together different technologies to create a tissue-integrated, above-the-knee prosthesis that gives people more control over their movements. We actually are pushing the definition of what a prosthesis can be, and that’s why we say it’s a tissue-integrated prosthesis, Tony Shu, lead author of the study, says. There’s a part that you will never be able to take off without another surgery. Shu likes to think of the new prosthesis as a culmination of three layers. 
 
 The first of these such layers is at the neuromuscular level. In an able-bodied person, Shu explains, at least two muscles pull against each other to move a joint, a relationship researchers refer to as agonist-antagonist—or the phenomenon in which one muscle stretches as another contracts. This relationship is what creates proprioception, or the sense that even when you close your eyes and move your elbow, for example, you know where your arm is in space. In a traditional amputation, this relationship is disrupted, and severed muscles are simply used to pad the prosthetic socket, disrupting one’s sense of control and proprioception. 
 
