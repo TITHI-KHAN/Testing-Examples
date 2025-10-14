@@ -8,6 +8,17 @@ Biomechanists have just created a revolutionary bionic knee that helps amputees 
 
 Since 2017, a team of scientists at MIT’s Yang Center for Bionics—co-led by biomechanist Hugh Herr—have been working to develop better, more advanced prostheses that are integrated into an amputee’s body. In a new study published last month in Science , the researchers have brought together different technologies to create a tissue-integrated, above-the-knee prosthesis that gives people more control over their movements.
 
+Under the weight of the storm-laden sky, where dark clouds churned like a tempestuous sea and flashes of lightning illuminated the jagged peaks of the distant mountains, the small village huddled in the valley below seemed almost fragile, its flickering lanterns struggling against the encroaching darkness, while the wind howled through the narrow streets, carrying with it the ominous scent of rain and the foreboding promise of nature's untamed fury.
+
+Amid the ancient ruins, where weathered stones bore silent witness to the rise and fall of forgotten empires, a soft breeze stirred the overgrown vines that clung to the crumbling walls, carrying with it the faint scent of jasmine and the distant murmur of a hidden stream, as the lone traveler, standing at the edge of history, felt the weight of centuries pressing down, intertwining the echoes of the past with the fleeting moments of the present.
+
+In the heart of the ancient cathedral, where the towering stained glass windows cast a kaleidoscope of colors onto the cold stone floor, the solemn silence was punctuated only by the distant echo of footsteps and the soft murmur of a lone chant, as the ethereal light bathed the worn pews and the intricately carved altars in a reverent glow, creating an atmosphere where time seemed to dissolve into the sacred stillness of the moment.
+
+A gentle breeze carried the scent of blooming jasmine through the quiet, moonlit garden.
+
+* This paragraph and its simplifications were generated using ChatGPT and manual verification
+
+
 We actually are pushing the definition of what a prosthesis can be, and that’s why we say it’s a tissue-integrated prosthesis, Tony Shu , lead author of the study, says. There’s a part that you will never be able to take off without another surgery. Shu likes to think of the new prosthesis as a culmination of three layers.
 
 The first of these such layers is at the neuromuscular level. In an able-bodied person, Shu explains, at least two muscles pull against each other to move a joint, a relationship researchers refer to as agonist-antagonist—or the phenomenon in which one muscle stretches as another contracts. This relationship is what creates proprioception, or the sense that even when you close your eyes and move your elbow, for example, you know where your arm is in space.
