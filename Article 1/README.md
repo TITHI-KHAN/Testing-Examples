@@ -18,5 +18,5 @@ In 2024, the MIT lab showed that below-the-knee amputees who had received this s
 
 Additionally, wires were connected to electrodes implanted within muscle tissue. These wires were then routed to the external robotic controller that helps move the prosthesis. The third layer of the prosthesis is what Shu refers to as the mechatronics layer, or the robotic limb that is then attached directly to the titanium implant.
 
-* This paragraph was taken from "The Smithsonian Tween Tribune" and its simplifications were generated using ChatGPT and manual verification.
+* This paragraph was taken from "The Smithsonian Tween Tribune" and its simplifications were generated using ChatGPT and manual verification
 
