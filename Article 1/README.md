@@ -1,57 +1,18 @@
-<p dir="auto" class="paragraph complex-paragraph" id="paragraph1">
-    <span class="sentence complex-sentence" id="sentence1">
-        <span id="word1">Researchers</span> <span id="word2">have</span> <span id="word3">created</span> 
-        <span id="word4">a</span> <span id="word5">prosthesis</span> <span id="word6">that</span> 
-        <span id="word7">is</span> <span id="word8">directly</span> <span id="word9">connected</span> 
-        <span id="word10">with</span> <span id="word11">muscle</span> <span id="word12">and</span> 
-        <span id="word13">bone</span> <span id="word14">to</span> <span id="word15">improve</span> 
-        <span id="word16">movement</span>.
-    </span>
-</p>
+# This New Bionic Knee Is Changing the Game for Lower Leg Amputees
 
-<p dir="auto" class="paragraph complex-paragraph" id="paragraph2">
-    <span class="sentence complex-sentence" id="sentence2">
-        <span id="word17">Biomechanics</span> <span id="word18">experts</span> 
-        <span id="word19">have</span> <span id="word20">just</span> <span id="word21">designed</span> 
-        <span id="word22">a</span> <span id="word23">groundbreaking</span> 
-        <span id="word24">bionic</span> <span id="word25">knee</span> <span id="word26">that</span> 
-        <span id="word27">assists</span> <span id="word28">amputees</span> <span id="word29">with</span> 
-        <span id="word30">an</span> <span id="word31">extraordinary</span> <span id="word32">range</span> 
-        <span id="word33">of</span> <span id="word34">movement</span>.
-    </span>
-</p>
+Scientists have developed a prosthesis that is directly integrated with muscle and bone in order to improve movement.
 
-<p dir="auto" class="paragraph complex-paragraph" id="paragraph3">
-    <span class="sentence complex-sentence" id="sentence3">
-        <span id="word35">Traditionally,</span> <span id="word36">lower</span> 
-        <span id="word37">leg</span> <span id="word38">prostheses</span> <span id="word39">are</span> 
-        <span id="word40">external</span> <span id="word41">devices</span>.
-    </span>
-</p>
+Biomechanists have just created a revolutionary bionic knee that helps amputees with a remarkable range of movement. Traditionally, lower leg prostheses are an external device. An amputee’s stump is fixed with a socket upon which a robotic limb is attached. But now, researchers at MIT have developed a prosthesis that is directly connected to a patient’s bone and muscle tissue, and it feels more like a part of their own body.
 
-<p dir="auto" class="paragraph complex-paragraph" id="paragraph4">
-    <span class="sentence complex-sentence" id="sentence4">
-        <span id="word42">An</span> <span id="word43">amputee’s</span> <span id="word44">stump</span> 
-        <span id="word45">is</span> <span id="word46">secured</span> 
-        <span id="word47">with</span> <span id="word48">a</span> <span id="word49">socket</span> 
-        <span id="word50">onto</span> <span id="word51">which</span> <span id="word52">a</span> 
-        <span id="word53">robotic</span> <span id="word54">limb</span> <span id="word55">is</span> 
-        <span id="word56">attached</span>.
-    </span>
-</p>
+Since 2017, a team of scientists at MIT’s Yang Center for Bionics—co-led by biomechanist Hugh Herr—have been working to develop better, more advanced prostheses that are integrated into an amputee’s body. In a new study published last month in Science , the researchers have brought together different technologies to create a tissue-integrated, above-the-knee prosthesis that gives people more control over their movements.
 
-<p dir="auto" class="paragraph complex-paragraph" id="paragraph5">
-    <span class="sentence complex-sentence" id="sentence5">
-        <span id="word57">But</span> <span id="word58">now,</span> <span id="word59">researchers</span> 
-        <span id="word60">at</span> <span id="word61">MIT</span> <span id="word62">have</span> 
-        <span id="word63">created</span> <span id="word64">a</span> <span id="word65">prosthesis</span> 
-        <span id="word66">that</span> <span id="word67">is</span> <span id="word68">directly</span> 
-        <span id="word69">attached</span> <span id="word70">to</span> <span id="word71">a</span> 
-        <span id="word72">patient’s</span> <span id="word73">bone</span> <span id="word74">and</span> 
-        <span id="word75">muscle</span> <span id="word76">tissue,</span> 
-        <span id="word77">and</span> <span id="word78">it</span> <span id="word79">feels</span> 
-        <span id="word80">more</span> <span id="word81">like</span> <span id="word82">a</span> 
-        <span id="word83">part</span> <span id="word84">of</span> <span id="word85">their</span> 
-        <span id="word86">own</span> <span id="word87">body</span>.
-    </span>
-</p>
+We actually are pushing the definition of what a prosthesis can be, and that’s why we say it’s a tissue-integrated prosthesis, Tony Shu , lead author of the study, says. There’s a part that you will never be able to take off without another surgery. Shu likes to think of the new prosthesis as a culmination of three layers.
+
+The first of these such layers is at the neuromuscular level. In an able-bodied person, Shu explains, at least two muscles pull against each other to move a joint, a relationship researchers refer to as agonist-antagonist—or the phenomenon in which one muscle stretches as another contracts. This relationship is what creates proprioception, or the sense that even when you close your eyes and move your elbow, for example, you know where your arm is in space.
+
+In a traditional amputation, this relationship is disrupted, and severed muscles are simply used to pad the prosthetic socket, disrupting one’s sense of control and proprioception. However, when a surgery is conducted to reconnect severed muscles—what researchers call an agonist-antagonist myoneural interface, or AMI—the muscles’ natural relationship to each other is restored.
+
+In 2024, the MIT lab showed that below-the-knee amputees who had received this special surgery had better control than traditional amputees. This time, Herr’s team took such advancements a step further, combining the surgery with the second layer of the new prosthesis. A titanium rod was inserted into an amputee’s residual bone—in this case, a femur bone above the knee—to allow for more comfort and better movement control compared to the traditional socket. The addition also enabled better load bearing. In the past, the prosthesis would put pressure on soft tissue instead of bone, creating discomfort for amputees. Imagine sweating into a hard carbon fiber shell all day and the chafing as your residual limb slides up and down the socket, Shu explains.
+
+Additionally, wires were connected to electrodes implanted within muscle tissue. These wires were then routed to the external robotic controller that helps move the prosthesis. The third layer of the prosthesis is what Shu refers to as the mechatronics layer, or the robotic limb that is then attached directly to the titanium implant.
+<img width="468" height="621" alt="image" src="https://github.com/user-attachments/assets/3be22a50-1aba-4389-8d8b-873a84b2063c" />
