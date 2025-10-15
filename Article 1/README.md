@@ -10,4 +10,4 @@ However, when a surgery is conducted to reconnect severed muscles—what researc
 
 In the past, the prosthesis would put pressure on soft tissue instead of bone, creating discomfort for amputees. Imagine sweating into a hard carbon fiber shell all day and the chafing as your residual limb slides up and down the socket, Shu explains. Additionally, wires were connected to electrodes implanted within muscle tissue. These wires were then routed to the external robotic controller that helps move the prosthesis. The third layer of the prosthesis is what Shu refers to as the mechatronics layer, or the robotic limb that is then attached directly to the titanium implant.
 
-* This paragraph was taken from "The Smithsonian Tween Tribune" and its simplifications were generated using ChatGPT and manual verification
+* This paragraph was taken from "The Smithsonian Tween Tribune" and its simplifications were generated using ChatGPT and manual verification.
