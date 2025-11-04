@@ -1,4 +1,4 @@
-# This New Bionic Knee Is Changing the Game for Lower Leg Amputees
+# Article 1
 
 Scientists have developed a prosthesis that is directly integrated with muscle and bone in order to improve movement. Biomechanists have just created a revolutionary bionic knee that helps amputees with a remarkable range of movement. 
 
